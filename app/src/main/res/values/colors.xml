@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC50C</color>
+    <color name="colorPrimaryDark">#E5B009</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="facebookBlue">#3F5996</color>
+    <color name="twitterBlue">#29c5f6</color>
+    <color name="googleRed">#D03E2F</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2E3237</color>
+    <color name="bg_main">#428BCA</color>
+    <color name="white">#E0DDDD</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5E6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#ECEEF1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#FF6861</color>
+    <color name="circleWhite">#FFFFFF</color>
+    <color name="circleTransparent">#00FFFFFF</color>
+    <color name="edittextBackgroud">#dadada</color>
+    <color name="textcolor">#6e6e6e</color>
+</resources>
